@@ -6,7 +6,6 @@
 - 💬 Ask me about Machine Learning 
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshsingh-28&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshsingh-28&layout=compact&theme=radical)
 
 ## 🛠️ Tech Stack
