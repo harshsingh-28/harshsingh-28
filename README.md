@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 🌐 Full Stack Developer | Node.js, Express, MongoDB, React, Next.js
-- 🗺️ Building [EDC Tourism Web App](#) to revolutionize travel planning
+- 🗺️ Building [TourNova](#) to revolutionize travel planning
 - 💬 Ask me about Machine Learning 
 
 ## 📊 GitHub Stats
