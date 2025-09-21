@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Harsh!
 
 ## 🚀 About Me
-- 🌐 Full Stack Developer | Node.js, Express, MongoDB, React, Next.js
-- 🗺️ Building [TourNova](#) to revolutionize travel planning
+- 🌐 Building heavy projects
 - 💬 Ask me about Machine Learning 
 
 ## 📊 GitHub Stats
@@ -15,4 +14,4 @@
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-singh28/)
